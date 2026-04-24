@@ -5,7 +5,7 @@ import UserSelectionScreen from './components/UserSelectionScreen';
 import { USERS } from './data/users';
 
 const WEBHOOK_URL =
-  'https://enhancement-theorem-full-opinions.trycloudflare.com/webhook/aec610eb-2235-4668-939d-94bb922ea91c';
+  'https://phpbb-mystery-tue-transportation.trycloudflare.com/webhook/aec610eb-2235-4668-939d-94bb922ea91c';
 const HISTORY_STORAGE_KEY = 'nexuschat_action_history_v1';
 const CHAT_STORAGE_KEY = 'nexuschat_chat_histories_v1';
 const MAX_HISTORY_ITEMS = 40;
